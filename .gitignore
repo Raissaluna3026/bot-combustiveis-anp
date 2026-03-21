@@ -1,0 +1,13 @@
+# dados
+data/
+
+# python
+__pycache__/
+*.pyc
+
+# ambiente
+.env
+
+# arquivos grandes
+*.csv
+*.xlsx
