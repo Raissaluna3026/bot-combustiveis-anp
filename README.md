@@ -1,6 +1,6 @@
 # Bot de Alerta de Gasolina - ANP
 
-🚀 Projeto em Python que automatiza o envio de alertas de preços de combustíveis via WhatsApp, usando dados da ANP.
+Projeto em Python que automatiza o envio de alertas de preços de combustíveis via WhatsApp, usando dados da ANP.
 
 O bot extrai os dados de planilhas da ANP, trata os dados para identificar o menor preço e envia uma mensagem com as informações do posto e localização no grupo do WhatsApp.
 
