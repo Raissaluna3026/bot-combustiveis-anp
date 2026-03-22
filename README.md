@@ -12,7 +12,7 @@ O bot extrai os dados de planilhas da ANP, trata os dados para identificar o men
 - ✅ Converte e trata os dados em CSV, removendo colunas desnecessárias e normalizando nomes  
 - ✅ Identifica automaticamente o menor preço de combustível por município  
 - ✅ Gera mensagem com informações do posto e link do Google Maps  
-- ✅ Envia a mensagem diretamente para um grupo do WhatsApp via `pyautogui`  
+- ✅ Envia a mensagem diretamente para um grupo do WhatsApp via `selenium`  
 
 ---
 
